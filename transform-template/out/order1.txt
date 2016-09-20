@@ -1,0 +1,9 @@
+Dear Customer,
+
+Your order number 10 was processed successfully!
+
+The N2PENCIL will be charged in your credit card, in a total amount of US$ 0.15.
+
+Sincerely
+
+Red Hat Training

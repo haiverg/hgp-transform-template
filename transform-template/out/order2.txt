@@ -1,0 +1,9 @@
+Dear Customer,
+
+Your order number 1 was processed successfully!
+
+The BLKNBK will be charged in your credit card, in a total amount of US$ 2.95.
+
+Sincerely
+
+Red Hat Training
